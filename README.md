@@ -24,3 +24,4 @@ const unsigned char *file = {
 Now you can simply `#include "some_file.c"` file in your program, and you have access to that file's data.
 
 
+You can find more info and alternative methods here: https://codeplea.com/embedding-files-in-c-programs
