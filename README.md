@@ -1,9 +1,9 @@
 
-#hexembed
+# hexembed
 
 hexembed is a very small utility to help embed files in C or C++ programs in an easy, cross-platform way.
 
-##Usage
+## Usage
 
 ```
 > gcc hexembed.c -o hexembed
