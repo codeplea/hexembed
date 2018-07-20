@@ -21,6 +21,6 @@ const unsigned char *file = {
 };
 ```
 
-Now you can simply `#include` the `.c` file in your program, and you have access to that files data.
+Now you can simply `#include "some_file.c"` file in your program, and you have access to that file's data.
 
 
